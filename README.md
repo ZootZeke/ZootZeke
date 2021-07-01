@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZootZeke
+- 👀 I’m interested in software development, specifically systems and application architecture and design.
+- 🌱 I’m currently learning everything that I can about everything. At the moment, this is focused on mobile development.
+- 💞️ I’m looking to collaborate on anything that someone may need help with or that I find interesting.
+- 📫 I work at Zoot Enterprises - you can reach me at my work email address, ezekiel.williams@zootweb.com
